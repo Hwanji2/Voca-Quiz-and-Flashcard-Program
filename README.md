@@ -19,7 +19,7 @@
 
 아래는 프로그램 실행 시 GUI 화면 예시입니다
 
-[단어장 프로그램 GUI][image](https://github.com/user-attachments/assets/ef4892ed-d730-448b-92aa-7db11ba89d00)
+[단어장 프로그램 GUI] [image](https://github.com/user-attachments/assets/ef4892ed-d730-448b-92aa-7db11ba89d00)
 
 
 ---
