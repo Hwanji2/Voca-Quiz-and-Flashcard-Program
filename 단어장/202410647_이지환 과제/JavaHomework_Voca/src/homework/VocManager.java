@@ -67,26 +67,73 @@ public class VocManager
      * @param filename 단어가 저장된 파일의 경로
      */
     public void run(String filename) {
-        try {
-            // 파일에서 단어 읽기
-            Scanner scan = new Scanner(new File(filename));
-            while (scan.hasNextLine()) {
-                String line = scan.nextLine();
-                StringTokenizer st = new StringTokenizer(line, "\t");
-                String eng = st.nextToken();
-                String kor = st.nextToken();
-                this.addWord(new Word(eng.trim(), kor.trim())); // 단어 추가
-            }
-            System.out.println(name + "의 단어장이 생성되었습니다.");
-            new MainFrame("이지환의 단어장 프로그램", this, filename); // MainFrame 호출
-            menu(); // 메뉴 호출
+        List<String> potentialPaths = List.of(
+                filename,
+                "JavaHomeWork_Voca/voc/quiz.txt",
+                "202410647_이지환 과제/JavaHomeWork_Voca/voc/quiz.txt"
+        );
 
-        } catch (FileNotFoundException e) {
-            System.out.println("파일을 찾을 수 없습니다.");
-        } catch (Exception e) {
-            System.out.println("단어장 생성 중 문제가 발생했습니다.");
+        boolean fileLoaded = false;
+
+        for (String path : potentialPaths) {
+            try {
+                // 파일에서 단어 읽기
+                Scanner scan = new Scanner(new File(path));
+                while (scan.hasNextLine()) {
+                    String line = scan.nextLine();
+                    StringTokenizer st = new StringTokenizer(line, "\t");
+                    String eng = st.nextToken();
+                    String kor = st.nextToken();
+                    this.addWord(new Word(eng.trim(), kor.trim())); // 단어 추가
+                }
+                System.out.println(name + "의 단어장이 생성되었습니다.");
+                new MainFrame("이지환의 단어장 프로그램", this, path); // MainFrame 호출
+                menu(); // 메뉴 호출
+                fileLoaded = true;
+                break; // 파일이 성공적으로 로드되었으므로 종료
+            } catch (FileNotFoundException e) {
+                System.out.println("해당 경로로 파일을 찾을 수 없습니다: " + path);
+                System.out.println("다른 경로에서 파일을 찾습니다");
+            } catch (Exception e) {
+                System.out.println("단어장 생성 중 문제가 발생했습니다.");
+            }
+        }
+
+        // 모든 경로에서 실패한 경우 폴더 내 파일 검색 시도
+        if (!fileLoaded) {
+            System.out.println("모든 경로에서 파일을 찾지 못했습니다. 폴더를 탐색하여 quiz.txt 파일을 찾는 중입니다...");
+            File baseDir = new File("."); // 현재 디렉터리
+            File foundFile = findFile(baseDir, "quiz.txt");
+
+            if (foundFile != null) {
+                System.out.println("파일을 찾았습니다: " + foundFile.getAbsolutePath());
+                run(foundFile.getAbsolutePath()); // 찾은 파일 경로로 다시 실행
+            } else {
+                System.out.println("폴더 탐색 결과 quiz.txt 파일을 찾을 수 없습니다.");
+            }
         }
     }
+
+    // 폴더 내에서 특정 파일 이름을 재귀적으로 탐색하는 메서드
+    private File findFile(File dir, String fileName) {
+        if (dir.isDirectory()) {
+            File[] files = dir.listFiles();
+            if (files != null) {
+                for (File file : files) {
+                    if (file.isDirectory()) {
+                        File found = findFile(file, fileName);
+                        if (found != null) {
+                            return found;
+                        }
+                    } else if (file.getName().equals(fileName)) {
+                        return file;
+                    }
+                }
+            }
+        }
+        return null; // 파일을 찾지 못한 경우 null 반환
+    }
+
 
     /**
      * public void menu()

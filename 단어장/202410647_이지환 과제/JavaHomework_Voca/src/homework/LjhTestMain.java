@@ -7,8 +7,6 @@ package homework;
  *
  * TestMain 클래스
  * 실행을 담당하는 클래스입니다.
- * 요구사항 1~2 만족여부 Yes
- * 요구사항 3 만족여부 Yes
  */
 
 public class LjhTestMain {
