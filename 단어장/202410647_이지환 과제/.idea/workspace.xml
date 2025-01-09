@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="모듈 '202410647_이지환 과제'" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="06c2c052-42c6-491f-95a1-87d6965ec851" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/../../comment/allclasses-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/allpackages-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/element-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/finalTest/homework/LjhTestMain.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/finalTest/homework/MainFrame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/finalTest/homework/VocManager.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/finalTest/homework/Word.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/finalTest/homework/class-use/LjhTestMain.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/finalTest/homework/class-use/MainFrame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/finalTest/homework/class-use/VocManager.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/finalTest/homework/class-use/Word.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/finalTest/homework/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/finalTest/homework/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/finalTest/homework/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/finalTest/module-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/index-files/index-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/index-files/index-10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/index-files/index-11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/index-files/index-12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/index-files/index-13.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/index-files/index-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/index-files/index-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/index-files/index-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/index-files/index-5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/index-files/index-6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/index-files/index-7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/index-files/index-8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/index-files/index-9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/legal/ADDITIONAL_LICENSE_INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/legal/ASSEMBLY_EXCEPTION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/legal/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/legal/jquery.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/legal/jqueryUI.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/member-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/module-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/package-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/resource-files/copy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/resource-files/glass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/resource-files/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/resource-files/link.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/resource-files/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/resource-files/x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/script-files/jquery-3.6.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/script-files/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/script-files/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/script-files/search-page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/script-files/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/serialized-form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/tag-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../comment/type-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/202410647_이지환 과제(2)/homework/LjhTestMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/202410647_이지환 과제(2)/homework/MainFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/202410647_이지환 과제(2)/homework/VocManager$Question.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/202410647_이지환 과제(2)/homework/VocManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/202410647_이지환 과제(2)/homework/Word.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/202410647_이지환 과제(2)/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/JavaHomework_Voca.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/202410647_이지환 과제.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHomework_Voca/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHomework_Voca/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHomework_Voca/.idea/artifacts/JavaHomework_Voca_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHomework_Voca/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHomework_Voca/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHomework_Voca/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHomework_Voca/JavaHomework_Voca.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHomework_Voca/src/homework/LjhTestMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHomework_Voca/src/homework/MainFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHomework_Voca/src/homework/VocManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHomework_Voca/src/homework/Word.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHomework_Voca/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaHomework_Voca/voc/quiz.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/202410647_이지환 과제/homework/LjhTestMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/202410647_이지환 과제/homework/MainFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/202410647_이지환 과제/homework/VocManager$Question.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/202410647_이지환 과제/homework/VocManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/202410647_이지환 과제/homework/Word.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/202410647_이지환 과제/module-info.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2rPDKMZ98EFkGWEk4zJQgFXKDd9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/mire0/Desktop/단어장/단어장",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "애플리케이션.LjhTestMain.executor": "Run"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mire0\Desktop\단어장\단어장\202410647_이지환 과제\JavaHomework_Voca\voc" />
+      <recent name="C:\Users\mire0\Desktop\단어장\단어장\202410647_이지환 과제\JavaHomework_Voca\src\homework" />
+      <recent name="C:\Users\mire0\Desktop\단어장\단어장\202410647_이지환 과제\JavaHomework_Voca\src" />
+      <recent name="C:\Users\mire0\Desktop\단어장\단어장\202410647_이지환 과제\JavaHomework_Voca\out" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="06c2c052-42c6-491f-95a1-87d6965ec851" name="변경" comment="" />
+      <created>1736451752137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736451752137</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

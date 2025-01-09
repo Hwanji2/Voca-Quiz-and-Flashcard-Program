@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaHomework_Voca:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaHomework_Voca_jar</output-path>
+    <root id="archive" name="JavaHomework_Voca.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../../../단어장/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="JavaHomework_Voca" />
+    </root>
+  </artifact>
+</component>
